@@ -1,0 +1,6 @@
+{
+  "name": "Финансы Эсептегич",
+  "description": "Жеке жана үй-бүлөлүк финансылык эсептерди жүргүзүү, киреше-чыгымдарды көзөмөлдөө, бюджеттер, сактык максаттар, карыздар жана AI кеңешчиси бар заманбап веб-тиркеме.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
